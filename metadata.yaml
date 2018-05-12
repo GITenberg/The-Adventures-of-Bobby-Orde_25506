@@ -1,0 +1,34 @@
+_repo: The-Adventures-of-Bobby-Orde_25506
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brehm, Worth
+    birthdate: 1883
+    deathdate: 1928
+    gutenberg_agent_id: '7909'
+    url: http://www.gutenberg.org/2009/agents/7909
+covers:
+- cover_type: archival
+  image_path: 25506-h/images/cover.jpg
+creator:
+  author:
+    agent_name: White, Stewart Edward
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
+description: ''
+gutenberg_issued: '2008-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+title: The Adventures of Bobby Orde
+url: http://www.gutenberg.org/ebooks/25506
